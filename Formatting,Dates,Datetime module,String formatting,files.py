@@ -1,7 +1,5 @@
 '''
 NAME         Abdul Baasit
-ID           0945195
-LAB          3
 DATE         13th October 2020 
 DESCRIPTION  Formatting,Dates,Datetime module,String formatting,files 
 -------------------------------------------------------------------------'''
