@@ -4,9 +4,9 @@ DATE         3rd November 2020
 DESCRIPTION  File handling and Binary to decimal conversion 
 -------------------------------------------------------------------------'''
 #Variables--------------------------------------------------------------
-shuffledList = r"C:\\lab_week6\\ipaddress_shuffled_list.txt"
-shuffledBinList = "C:\\lab_week6\\ipaddress_shuffled_list_bin.txt"
-sorted_List =  "C:\\lab_week6\\AB_ipaddress_sorted.txt"
+shuffledList = "ipaddress_shuffled_list.txt"
+shuffledBinList = "ipaddress_shuffled_list_bin.txt"
+sorted_List =  "AB_ipaddress_sorted.txt"
 address_list = []
 description = "File created by Abdul Baasit\n"
 star_format = "*"*50
